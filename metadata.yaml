@@ -1,0 +1,31 @@
+_repo: Queer-Stories-for-Boys-and-Girls_19896
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eggleston, Edward
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '3293'
+    url: http://www.gutenberg.org/2009/agents/3293
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
+description: Presents twenty stories, including such titles as "Bobby and the Key-Hole,"
+  "Simon and the Garuly," "The Story of a Flutter-Wheel," and "Flat Tail the Beaver."
+gutenberg_issued: '2006-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Short stories'
+- !lcsh 'Children''s stories'
+title: Queer Stories for Boys and Girls
+url: http://www.gutenberg.org/ebooks/19896
