@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
 description: Presents twenty stories, including such titles as "Bobby and the Key-Hole,"
   "Simon and the Garuly," "The Story of a Flutter-Wheel," and "Flat Tail the Beaver."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19896#Queer-Stories-for-Boys-and-Girls
 gutenberg_issued: '2006-11-22'
 gutenberg_type: Text
 identifiers:
